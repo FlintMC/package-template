@@ -39,6 +39,7 @@ cmake-build-*/
 # IntelliJ
 out/
 .idea/
+*.iml
 
 # Eclipse
 .metadata
