@@ -1,11 +1,11 @@
 pluginManagement {
     plugins {
         // make sure to use the newest version
-        id("net.flintmc.flint-gradle") version "2.7.1"
+        id("net.flintmc.flint-gradle") version "2.10.1"
     }
     buildscript {
         dependencies {
-            classpath("net.flintmc", "flint-gradle", "2.7.1")
+            classpath("net.flintmc", "flint-gradle", "2.10.1")
         }
         repositories {
             maven {
